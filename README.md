@@ -8,12 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-HTML & css
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
 
 
 ## Overview
@@ -27,7 +23,6 @@ HTML & css
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 
-## My process
 
 ### Built with
 
@@ -38,6 +33,6 @@ HTML & css
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Fiona Rigall](https://www.your-site.com)
+- Frontend Mentor - [@Firgs](https://www.frontendmentor.io/profile/Firgs)
 
